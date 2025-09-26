@@ -133,6 +133,7 @@ int result = input.ToInt32() ?? -1; // Returns 123 if conversion succeeds, -1 if
 ## Supported Frameworks
 
 -   .NET Standard 2.0
+-   .NET 6.0
 -   .NET 8.0
 -   .NET 9.0
 
